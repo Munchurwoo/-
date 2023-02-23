@@ -4,4 +4,4 @@ markdown 형식으로 추가예정 .
 portfolio content add.
 백엔드로 다시갈까..AI를 공부해야 되나.. 
 모르겠다..
-
+보고서 쓸 많다. 갈피르 잡자.
